@@ -1,6 +1,6 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-## Hi there 👋 I'm a Back-End and Telegram&Discord Developer
+## Hi there 👋 I'm a Back-End and Telegram&Discord Bot Developer
 
 ## Contact me
 
