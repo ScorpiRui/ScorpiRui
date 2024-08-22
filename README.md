@@ -30,6 +30,7 @@
 ## **Back-end**
 ![Python](https://img.shields.io/badge/Python-3-FFDB63)
 ![Django](https://img.shields.io/badge/Django-0C4B33)
+![Aiogram](https://img.shields.io/badge/Aiogram2-009cfb)
 
 ## **Databases**
 ![SQLite3](https://img.shields.io/badge/SQLite-3-3185FC)
@@ -45,7 +46,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-189CED)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-189CED)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-712CF9)
-![Materialize1](https://img.shields.io/badge/materialize-css)
+![Materialize1](https://img.shields.io/badge/materialize-css-eb7077)
 <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwind-38bdf8) -->
 ### - **JavaScript**
 ![JavaScript](https://img.shields.io/badge/Javascript-F7E01D)
